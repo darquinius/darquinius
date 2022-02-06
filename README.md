@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @darquinius
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-darquinius/darquinius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in making lightning fast landers for my affiliate marketing campaigns.
+- 🌱 I’m currently learning how to use hugo and deploy via Netlify CMS
+- 📫 Get in touch at https://darquini.us/smc?utm_source=github
